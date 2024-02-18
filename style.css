@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: chocolate;
+
+}
+
+#navbar {
+    background-color: aqua;
+    min-height: 50px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#inputbox {
+
+    margin-left: 43%;
+    margin-top: 50px;
+}
+
+li {
+    border: 2px solid;
+    max-width: 20%;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 30px;
+
+}
+
+ul {
+    display: flex;
+    margin-left: 30px;
+}
+
+
+input {
+    padding: 30px;
+    border-radius: 10px;
+}
+
+button {
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+}
+
+
+#Addbtn {
+    padding: 10px 25px;
+    border-radius: 5px;
+    background-color: green;
+
+}
